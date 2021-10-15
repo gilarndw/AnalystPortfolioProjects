@@ -14,5 +14,15 @@
 * Covid_vax contained data I need to know about Vaccination rate
 
 ## Data Exploration
-* 
+* Covid 19 death percentage in Indonesia
+* Covid 19 total cases percentage in Indonesia
+* Total infection per month
+* Joined the data from covid_deaths and covid_vax for vaccination rate
+
+## Data Visualization
+* Tableau Public :https://tabsoft.co/3DLQ04z
+
+![Dashboard 1](https://user-images.githubusercontent.com/60825743/137457073-6be43e93-2f02-4534-bc94-f1dfabdea596.png)
+
+
 
